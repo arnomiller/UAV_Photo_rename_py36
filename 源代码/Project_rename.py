@@ -1,5 +1,6 @@
 # 模块导入
 import os
+
 from pip._vendor.distlib.compat import raw_input
 
 # 输入工作路径
@@ -22,6 +23,12 @@ if len(dir_list) == len(new_name):
         os.rename(work_cwd + dir_list[i],
                   os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[i] + ".jpg")
     print("转换完成。")
+elif len(dir_list) > len(new_name):
+    print("照片数量多于模板数量，仅修改模板数量照片")
+    for i in range(len(new_name)):
+        os.rename(work_cwd + dir_list[i],
+                  os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[i] + ".jpg")
+    print("转换完成。")
 else:
-    print("不满足转换条件，未进行转换。")
+    print("不满足转换条件，未进行转换，请检查照片是否完整。")
 raw_input("按<Enter>退出程序")
