@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.1版本（2023.01.03）&#10;增加了图形界面与下拉菜单，操作更为简便。">
+    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/源代码/GUI_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/GUI_code.py" afterDir="false" />
     </list>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672756326294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。">
+      <created>1672757960676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672757960676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +195,8 @@
     <MESSAGE value="Revert &quot;V0.1版本（2022.12.30）&quot;&#10;&#10;This reverts commit 8ea786b4556708ead0c5d15d12821c2c0c4c91e7." />
     <MESSAGE value="V0.2.1版本（2023.01.03）" />
     <MESSAGE value="V0.3.1版本（2023.01.03）&#10;增加了图形界面与下拉菜单，操作更为简便。" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.3.1版本（2023.01.03）&#10;增加了图形界面与下拉菜单，操作更为简便。" />
+    <MESSAGE value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

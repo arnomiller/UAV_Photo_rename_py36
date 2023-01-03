@@ -4,7 +4,7 @@ from tkinter import ttk
 from tkinter.messagebox import *
 
 win = tk.Tk()
-win.title("无人机重命名软件V0.3 Code by LYC")
+win.title("无人机重命名软件V0.3.1 Code by LYC")
 win.geometry('600x400+500+200')
 win.iconphoto(False, tk.PhotoImage(file='UAV.png'))
 frame = tk.Frame(win)
@@ -48,14 +48,14 @@ def pic_Rename():
     # 创建收录文件夹
     if os.path.exists(os.path.abspath('已处理照片') + "\\" + num_of_tower):
         print('路径已经存在，请重新输入名称。')
-        showwarning('警告', '路径已经存在，请重新输入名称。')
+        showwarning('警告', '路径已经存在，请重新输入名称，或删除已处理照片文件夹中的同名文件夹。')
     else:
-        os.makedirs(os.path.abspath('已处理照片') + "\\" + num_of_tower)
         # 重命名以及收录过程
         photo_dir_list = os.listdir(work_cwd)
         if len(photo_dir_list) == len(new_name):
             print("照片数量等于模板数量，开始转换")
             showinfo('提示', '照片数量等于模板数量，开始转换')
+            os.makedirs(os.path.abspath('已处理照片') + "\\" + num_of_tower)
             for i in range(len(photo_dir_list)):
                 os.rename(work_cwd + photo_dir_list[i],
                           os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[
@@ -65,6 +65,7 @@ def pic_Rename():
         elif len(photo_dir_list) > len(new_name):
             print("照片数量多于模板数量，仅修改模板数量照片")
             showinfo('提示', '照片数量多于模板数量，仅修改模板数量照片')
+            os.makedirs(os.path.abspath('已处理照片') + "\\" + num_of_tower)
             for i in range(len(new_name)):
                 os.rename(work_cwd + photo_dir_list[i],
                           os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[
