@@ -5,7 +5,7 @@ from tkinter.messagebox import *
 
 win = tk.Tk()
 win.title("无人机重命名软件V0.3.1 Code by LYC")
-win.geometry('600x400+500+200')
+win.geometry('560x400+500+200')
 win.iconphoto(False, tk.PhotoImage(file='UAV.png'))
 frame = tk.Frame(win)
 # 杆塔号输入控件
@@ -24,7 +24,7 @@ label_2.grid(row=0, column=1)
 Select_com_001 = tk.ttk.Combobox(win, textvariable=xVariable, state='readonly', values=model_dir_list)
 Select_com_001.grid(row=1, column=1)
 
-# 下拉菜单1.命名模板
+# 下拉菜单2.选择需要处理的文件夹
 file_dir_list = os.listdir('未处理照片')
 file_dir_list.sort(key=lambda x: int(x.split('.')[0]))
 xVariable = tk.StringVar()
@@ -77,8 +77,8 @@ def pic_Rename():
             showwarning('警告', '不满足转换条件，未进行转换，请检查照片是否完整。')
 
 
-label_3 = tk.Label(win, text="4.请点击开始")
-label_3.grid(row=0, column=3)
+label_4 = tk.Label(win, text="4.请点击开始")
+label_4.grid(row=0, column=3)
 Start_button = tk.Button(win, text='开始执行转换', command=pic_Rename)
 Start_button.grid(row=1, column=3)
 

@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672757960676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。">
+      <created>1672759467406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672759467406</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
