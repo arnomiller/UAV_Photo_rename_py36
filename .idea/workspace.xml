@@ -4,77 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/10.耐张-有左2中2右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/11.耐张-有左2中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/12.耐张-有左0中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/13.耐张-有左0中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/14.耐张-有左0中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/15.耐张-有左1中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/16.耐张-有左1中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/17.耐张-有左1中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/18.耐张-有左2中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/19.耐张-有左2中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/20.耐张-有左2中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/24.双回路耐张塔-双杆号牌.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/25.双回路直线塔-双杆号牌.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/3.耐张-有左0中2右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/5.耐张-有左0中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/8.耐张-有左1中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/10.耐张-有左2中2右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/11.耐张-有左2中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/12.耐张-有左0中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/13.耐张-有左0中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/14.耐张-有左0中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/15.耐张-有左1中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/16.耐张-有左1中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/17.耐张-有左1中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/18.耐张-有左2中1右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/19.耐张-有左2中1右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/20.耐张-有左2中1右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/21.双回路耐张塔-单杆号牌-I线.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/22.双回路耐张塔-单杆号牌-II线.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/23.双回路耐张塔-单杆号牌.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/24.双回路耐张塔-双杆号牌.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/25.双回路直线塔-双杆号牌.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/26.双回路直线塔-单杆号牌-I线.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/27.双回路直线塔-单杆号牌-II线.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/3.耐张-有左0中2右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/4.耐张-有左0中2右1跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/5.耐张-有左0中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/6.耐张-有左1中2右0跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/8.耐张-有左1中2右2跳线绝缘子.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/9.耐张-有左2中2右0跳线绝缘子.txt" afterDir="false" />
+    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/10.双回路耐张塔-单杆号牌.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/23.双回路耐张塔-单杆号牌.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/11.双回路耐张塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/12.双回路直线塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/13.双回路直线塔-单杆号牌-I线.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/26.双回路直线塔-单杆号牌-I线.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/14.双回路直线塔-双杆号牌-II线.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/27.双回路直线塔-单杆号牌-II线.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/4.耐张-有左0中2右1跳线绝缘子.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/4.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/7.耐张-有左1中2右1跳线绝缘子.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/5.耐张-有左1中2右0跳线绝缘子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/6.耐张-有左1中2右0跳线绝缘子.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/6.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/7.耐张-有左1中2右1跳线绝缘子.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/7.耐张-有左2中2右0跳线绝缘子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/9.耐张-有左2中2右0跳线绝缘子.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/8.双回路耐张塔-单杆号牌-I线.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/21.双回路耐张塔-单杆号牌-I线.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/9.双回路耐张塔-单杆号牌-II线.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/22.双回路耐张塔-单杆号牌-II线.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/1.直线塔.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/10.双回路耐张塔-单杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/11.双回路耐张塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/12.双回路直线塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/13.双回路直线塔-单杆号牌-I线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/14.双回路直线塔-双杆号牌-II线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/2.直线塔-V串.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/4.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/5.耐张-有左1中2右0跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/6.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/7.耐张-有左2中2右0跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/8.双回路耐张塔-单杆号牌-I线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/9.双回路耐张塔-单杆号牌-II线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/GUI_code.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/GUI_code.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/warn-GUI_code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/GUI_code/xref-GUI_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/Project_rename.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/Project_rename.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/warn-Project_rename.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Project_rename/xref-Project_rename.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/GUI_code.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Project_rename.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/UAV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/10.双回路耐张塔-单杆号牌.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/11.双回路耐张塔-双杆号牌.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/12.双回路直线塔-双杆号牌.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/13.双回路直线塔-单杆号牌-I线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/14.双回路直线塔-双杆号牌-II线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子 - 副本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/4.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/5.耐张-有左1中2右0跳线绝缘子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/6.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/7.耐张-有左2中2右0跳线绝缘子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/8.双回路耐张塔-单杆号牌-I线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/9.双回路耐张塔-单杆号牌-II线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/源代码/GUI_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/GUI_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672760005461</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包">
+      <created>1672837465652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672837465652</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +267,8 @@
     <MESSAGE value="V0.2.1版本（2023.01.03）" />
     <MESSAGE value="V0.3.1版本（2023.01.03）&#10;增加了图形界面与下拉菜单，操作更为简便。" />
     <MESSAGE value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
+    <MESSAGE value="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
