@@ -22,7 +22,9 @@ def show_num_of_model(event):
     model_cwd = os.getcwd() + "\\无人机精飞照片命名\\" + Select_com_001.get()
     with open(model_cwd, encoding="utf-8") as f:
         new_name = f.read().splitlines()
-    varLabel_1.set(len(new_name))
+    varLabel_1.set(str(len(new_name)))
+    update_file_dir_list = os.listdir(os.getcwd() + '\\未处理照片\\')
+    Select_com_002['values'] = update_file_dir_list
 
 
 model_dir_list = os.listdir('无人机精飞照片命名')
@@ -42,14 +44,14 @@ label_5.grid(row=2, column=1)
 def show_num_of_photo(event):
     work_cwd = os.getcwd() + '\\未处理照片\\' + Select_com_002.get()
     photo_dir_list = os.listdir(work_cwd)
-    varLabel_2.set(len(photo_dir_list))
+    varLabel_2.set(str(len(photo_dir_list)))
 
 
 file_dir_list = os.listdir('未处理照片')
 xVariable_3 = tk.StringVar()
 label_3 = tk.Label(win, text="3.请选择需要命名的杆塔照片")
 label_3.grid(row=0, column=2)
-Select_com_002 = tk.ttk.Combobox(win, textvariable=xVariable_3, state='readonly', values=file_dir_list, width=30)
+Select_com_002 = tk.ttk.Combobox(win, textvariable=xVariable_3, values=file_dir_list, width=30)
 Select_com_002.bind('<<ComboboxSelected>>', show_num_of_photo)
 Select_com_002.grid(row=1, column=2)
 varLabel_2 = tk.StringVar()
@@ -90,10 +92,14 @@ def pic_Rename():
             print("照片数量多于模板数量，仅修改模板数量照片")
             showinfo('提示', '照片数量多于模板数量，仅修改模板数量照片')
             os.makedirs(os.path.abspath('已处理照片') + "\\" + num_of_tower)
-            for i in range(len(new_name)):
-                os.rename(work_cwd + '\\' + photo_dir_list[i],
-                          os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[
-                              i] + ".jpg")
+            for i in range(len(photo_dir_list)):
+                if i < len(new_name):
+                    os.rename(work_cwd + '\\' + photo_dir_list[i],
+                              os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + num_of_tower + new_name[
+                                  i] + ".jpg")
+                else:
+                    os.rename(work_cwd + '\\' + photo_dir_list[i],
+                              os.path.abspath("已处理照片" + "\\" + num_of_tower) + '\\' + photo_dir_list[i])
             print("转换完成。")
             showinfo('提示', '转换完成')
             shutil.rmtree(work_cwd)

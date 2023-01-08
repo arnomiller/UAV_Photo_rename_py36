@@ -4,58 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包">
+    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/GUI_code.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/GUI_code.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/Tree-02.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/warn-GUI_code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/GUI_code/xref-GUI_code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/Project_rename.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/Project_rename.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/warn-Project_rename.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/Project_rename/xref-Project_rename.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/GUI_code.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Project_rename.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/UAV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/10.双回路耐张塔-单杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/11.双回路耐张塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/12.双回路直线塔-双杆号牌.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/13.双回路直线塔-单杆号牌-I线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/14.双回路直线塔-双杆号牌-II线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子 - 副本.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/3.耐张-有左0中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/4.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/5.耐张-有左1中2右0跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/6.耐张-有左1中2右1跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/7.耐张-有左2中2右0跳线绝缘子.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/8.双回路耐张塔-单杆号牌-I线.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/无人机精飞照片命名/9.双回路耐张塔-单杆号牌-II线.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/源代码/GUI_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/GUI_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672837465652</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件">
+      <created>1672843888965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672843888966</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +236,8 @@
     <MESSAGE value="V0.3.1版本（2023.01.03）&#10;增加了图形界面与下拉菜单，操作更为简便。" />
     <MESSAGE value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
     <MESSAGE value="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包" />
+    <MESSAGE value="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
