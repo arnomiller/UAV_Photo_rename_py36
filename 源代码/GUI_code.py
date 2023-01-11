@@ -23,8 +23,6 @@ def show_num_of_model(event):
     with open(model_cwd, encoding="utf-8") as f:
         new_name = f.read().splitlines()
     varLabel_1.set(str(len(new_name)))
-    update_file_dir_list = os.listdir(os.getcwd() + '\\未处理照片\\')
-    Select_com_002['values'] = update_file_dir_list
 
 
 model_dir_list = os.listdir('无人机精飞照片命名')
@@ -106,6 +104,10 @@ def pic_Rename():
         else:
             print("不满足转换条件，未进行转换，请检查照片是否完整。")
             showwarning('警告', '不满足转换条件，未进行转换，请检查照片是否完整。')
+        update_model_dir_list = os.listdir(os.getcwd() + '\\未处理照片\\')
+        Select_com_001['values'] = update_model_dir_list
+        update_file_dir_list = os.listdir(os.getcwd() + '\\未处理照片\\')
+        Select_com_002['values'] = update_file_dir_list
 
 
 label_4 = tk.Label(win, text="4.请点击开始")
