@@ -4,20 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件">
+    <list default="true" id="b2f94e82-fddd-442b-b1f5-4b72caf42c00" name="变更" comment="V0.3.6版本（2023.01.11）&#10;修复部分恶性bug，重新打包软件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/GUI_code.spec" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/GUI_code.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/GUI_code.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.pyz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/Tree-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/Tree-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/Tree-01.toc" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/Tree-01.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/warn-GUI_code.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/build/GUI_code/xref-GUI_code.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/GUI_code.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/1.直线塔.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/应用打包/dist/无人机精飞照片命名/2.直线塔-V串.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/源代码/GUI_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/GUI_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/1.直线塔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/1.直线塔.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/源代码/无人机精飞照片命名/2.直线塔-V串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/源代码/无人机精飞照片命名/2.直线塔-V串.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="c4bfedf7-5cf6-43e2-8658-601ba65600eb" />
+    <option name="defaultAccountId" value="53e1457c-50c2-430f-84fe-36a8fb90dc20" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,49 +58,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WorkSpaceL/PythonProject/无人机照片命名py36&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "F:/Code/code_files/Python/UAV_Photo_rename_py36/源代码/无人机精飞照片命名",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="GUI_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="无人机照片命名py36" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/源代码" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/源代码/GUI_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.GUI_code" />
-      </list>
-    </recent_temporary>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\code_files\Python\UAV_Photo_rename_py36\源代码\无人机精飞照片命名" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -180,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672843888966</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="V0.3.6版本（2023.01.11）&#10;修复部分恶性bug，重新打包软件">
+      <created>1673446477225</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446477225</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,26 +176,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="branch1" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -237,7 +206,8 @@
     <MESSAGE value="V0.3.2版本（2023.01.03）&#10;增加了图形界面与下拉菜单，增加提示框，打开程序一次可以处理多次的照片命名。" />
     <MESSAGE value="V0.3.3版本（2023.01.04）&#10;增加模板数量，现在有27种模板，但软件无需重新打包" />
     <MESSAGE value="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.3.4版本（2023.01.04）&#10;修复部分恶性bug，重新打包软件" />
+    <MESSAGE value="V0.3.6版本（2023.01.11）&#10;修复部分恶性bug，重新打包软件" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.3.6版本（2023.01.11）&#10;修复部分恶性bug，重新打包软件" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

@@ -1,16 +1,14 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-
 block_cipher = None
 
 
-a = Analysis(['D:\\WorkSpaceL\\PythonProject\\无人机照片命名py36\\源代码\\GUI_code.py'],
-             pathex=[],
+a = Analysis(['F:\\Code\\code_files\\Python\\UAV_Photo_rename_py36\\源代码\\GUI_code.py'],
+             pathex=['F:\\Code\\code_files\\Python\\UAV_Photo_rename_py36\\应用打包'],
              binaries=[],
              datas=[],
              hiddenimports=[],
              hookspath=[],
-             hooksconfig={},
              runtime_hooks=[],
              excludes=[],
              win_no_prefer_redirects=False,
@@ -19,12 +17,11 @@ a = Analysis(['D:\\WorkSpaceL\\PythonProject\\无人机照片命名py36\\源代�
              noarchive=False)
 pyz = PYZ(a.pure, a.zipped_data,
              cipher=block_cipher)
-
 exe = EXE(pyz,
           a.scripts,
           a.binaries,
           a.zipfiles,
-          a.datas,  
+          a.datas,
           [],
           name='GUI_code',
           debug=False,
@@ -33,8 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False,
-          disable_windowed_traceback=False,
-          target_arch=None,
-          codesign_identity=None,
-          entitlements_file=None )
+          console=False )
